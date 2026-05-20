@@ -1,0 +1,4 @@
+MATLAB codes to reproduce the simulation results from Section V of the paper "Observer design for a class of ODE -- continuum-PDE cascade systems inspired by a control-theoretic model of large-scale arterial networks of blood flow" by Jukka-Pekka Humaloja and Nikolaos Bekiaris-Liberis.
+Copyright (C) 2026 by Jukka-Pekka Humaloja
+
+The project is lincesed under  CC BY-NC-ND. For a copy of the license, see https://creativecommons.org/licenses/by-nc-nd/4.0/
