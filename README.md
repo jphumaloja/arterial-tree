@@ -6,7 +6,7 @@ The mathematical background and the documentation for the codes are desribed in 
 
 ## Requirements
 
-The codes require MATLAB with Symbolic Math Toolbox, Control System Toolbox, and Curve Fitting Toolbox.
+The codes require MATLAB with Symbolic Math Toolbox, Control System Toolbox, Curve Fitting Toolbox, and Optimization Toolbox.
 
 ## Usage
 
@@ -14,7 +14,7 @@ The simulation results of Sections 4.2.1, 4.2.2, and 4.2.3 can be reproduced by 
 
 ## License
 
-Copyright Jukka-Pekka Humaloja 2024. See LICENSE.txt for licensing information.
+Copyright Jukka-Pekka Humaloja 2026. See LICENSE.txt for licensing information.
 
 ## Acknowledgements
 
