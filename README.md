@@ -1,6 +1,6 @@
 # Observer design for ODE -- continuum-PDE cascade systems
 
-These codes contain a MATLAB implementation of the power series-based algorithm to solving continuum kernel equations as described in the manusript "Observer Design for a Class of ODE -- Continuum-PDE Cascade Systems Inspired by a Control-Theoretic Model of Large-Scale Arterial Networks of Blood Flow" by Jukka-Pekka Humaloja and Nikolaos Bekiaris-Liberis. The preprint is available in [arXiv](https://arxiv.org/abs/2605.10524).
+The purpose of these MATLAB codes is to reproduce the simulation results from Section 4 of the paper "Observer Design for a Class of ODE -- Continuum-PDE Cascade Systems Inspired by a Control-Theoretic Model of Large-Scale Arterial Networks of Blood Flow" by Jukka-Pekka Humaloja and Nikolaos Bekiaris-Liberis. The preprint is available in [arXiv](https://arxiv.org/abs/2605.10524).
 
 The mathematical background and the documentation for the codes are desribed in the file "codesdoc.pdf.".
 
