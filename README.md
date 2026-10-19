@@ -1,6 +1,6 @@
 # Observer design for ODE -- continuum-PDE cascade systems
 
-The purpose of these MATLAB codes is to reproduce the simulation results from Section 4 of the paper "Observer Design for a Class of ODE -- Continuum-PDE Cascade Systems Inspired by a Control-Theoretic Model of Large-Scale Arterial Networks of Blood Flow" by Jukka-Pekka Humaloja and Nikolaos Bekiaris-Liberis. The preprint is available in [arXiv](https://arxiv.org/abs/2605.10524).
+The purpose of these MATLAB codes is to reproduce the simulation results from Sections 4.2, 5.2, and 5.3 of the paper "Observer Design for a Class of ODE -- Continuum-PDE Cascade Systems Inspired by a Control-Theoretic Model of Large-Scale Arterial Networks of Blood Flow" by Jukka-Pekka Humaloja and Nikolaos Bekiaris-Liberis. The preprint is available in [arXiv](https://arxiv.org/abs/2605.10524v2).
 
 The mathematical background and the documentation for the codes are desribed in the file "codesdoc.pdf.".
 
@@ -10,7 +10,7 @@ The codes require MATLAB with Symbolic Math Toolbox, Control System Toolbox, Cur
 
 ## Usage
 
-The simulation results of Sections 4.2.1, 4.2.2, and 4.2.3 can be reproduced by running the scripts Ex1.m, Ex2.m, and Ex3.m, respectively.
+The simulation results of Sections 4.2, 5.2, and 5.3 can be reproduced by running the scripts Ex1.m, Ex2.m, and Ex3.m, respectively.
 
 ## License
 
@@ -25,7 +25,7 @@ ArXiv preprint:
 ```
 @Unpublished{HumBek26arxiv,
   author = {J.-P. Humaloja and N. Bekiaris-Liberis},
-  note   = {{arXiv}, 2605.10524, 2026},
+  note   = {{arXiv}, 2605.10524v2, 2026},
   title  = {Observer design for a class of {ODE} -- continuum-{PDE} cascade systems inspired by a control-theoretic model of large-scale arterial networks of blood flow},
 }
 ```
